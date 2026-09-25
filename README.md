@@ -14,12 +14,15 @@ Milan / Sofia.
   admin tooling. Also run its Meta and Google Ads.
 
 **Open source**
-
-| | |
-|---|---|
-| [**wgbar**](https://github.com/Nikohtr/wgbar) | macOS menu bar app for `wg-quick` WireGuard tunnels. Connect-on-demand via an "armed" interface so the first connection never fails, automatic DNS repair, least-privilege root helper. Swift, no dependencies, tested without XCTest. |
-| [**yolo-distillation**](https://github.com/Nikohtr/yolo-distillation) | Response-based knowledge distillation for YOLOv8 on the decoded pre-NMS head (soft-target BCE + confidence-masked L1), plus a patch exposing full per-box class probabilities through Ultralytics `Results`. |
-| [**axiom-review**](https://github.com/Nikohtr/axiom-review) | Evidence-first UX/accessibility reviewer: Playwright captures the page and audits the live DOM, Claude must cite a CSS selector for every finding, each selector is re-screenshotted in the open browser. Next.js 16. |
+- [**wgbar**](https://github.com/Nikohtr/wgbar) — macOS menu bar app for `wg-quick` WireGuard
+  tunnels. Connect-on-demand via an "armed" interface so the first connection never fails,
+  automatic DNS repair, least-privilege root helper. Swift, no dependencies, tested without XCTest.
+- [**yolo-distillation**](https://github.com/Nikohtr/yolo-distillation) — response-based knowledge
+  distillation for YOLOv8 on the decoded pre-NMS head (soft-target BCE + confidence-masked L1),
+  plus a patch exposing full per-box class probabilities through Ultralytics `Results`.
+- [**axiom-review**](https://github.com/Nikohtr/axiom-review) — evidence-first UX/accessibility
+  reviewer: Playwright captures the page and audits the live DOM, Claude must cite a CSS selector
+  for every finding, each selector is re-screenshotted in the open browser. Next.js 16.
 
 **Before**
 - Bachelor's thesis: online learning for call-centre staffing under demand uncertainty —
