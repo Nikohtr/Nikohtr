@@ -9,7 +9,7 @@ Milan / Sofia.
   phone receptionist: self-hosted LiveKit SIP, streaming STT/TTS, a clock-free turn engine where
   code owns the record and the LLM owns the plan. Registered acceptance gates, synthetic-caller
   campaigns, 3,400+ tests. *Architecture write-up in the link; code is private.*
-- **Monexo** — full-stack engineer at a Bulgarian fintech (fast SME credit lines). SvelteKit /
+- **Monexo[https://monexo.bg]** — full-stack engineer at a Bulgarian fintech (fast SME credit lines). SvelteKit /
   Svelte 5, Drizzle, PostgreSQL: payment allocation, balance-chain integrity, document generation,
   admin tooling. Also run its Meta and Google Ads.
 
