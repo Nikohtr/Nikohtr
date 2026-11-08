@@ -16,7 +16,7 @@ Milan / Sofia.
 **Open source**
 - [**wgbar**](https://github.com/Nikohtr/wgbar) — macOS menu bar app for `wg-quick` WireGuard
   tunnels. Connect-on-demand via an "armed" interface so the first connection never fails,
-  automatic DNS repair, least-privilege root helper. Swift, no dependencies, tested without XCTest.
+  automatic DNS repair, least-privilege root helper. Rust, built on the objc2 Cocoa bindings.
 - [**yolo-distillation**](https://github.com/Nikohtr/yolo-distillation) — response-based knowledge
   distillation for YOLOv8 on the decoded pre-NMS head (soft-target BCE + confidence-masked L1),
   plus a patch exposing full per-box class probabilities through Ultralytics `Results`.
