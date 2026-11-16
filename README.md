@@ -27,8 +27,6 @@ Bulgarian and files a structured lead. First deployment: after-hours lead captur
 lender. Next: dental and medical clinics. A clock-free turn engine where **code owns the record
 and the LLM owns the plan**.
 
-<!-- TODO: add a 20–30 s subtitled call recording here (drag an .mp4 into the GitHub editor). -->
-
 ```mermaid
 flowchart LR
   C[Caller<br/>PSTN] -->|SIP| S[livekit-sip]
