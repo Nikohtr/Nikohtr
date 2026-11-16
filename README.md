@@ -14,6 +14,10 @@ Milan / Sofia.
   admin tooling. Also run its Meta and Google Ads.
 
 **Open source**
+- [**Sweep**](https://github.com/Nikohtr/sweep) — macOS menu bar app: two-finger trackpad gestures on
+  a titlebar snap, move, minimize and close windows; also works on Dock icons, the menu bar, tabs and
+  Mission Control. Swift; a pure-logic core (gesture state machine, snap geometry) with 480+ tests
+  driven by synthetic touch frames; Accessibility-API window control; signed in-app updates. GPL-3.0.
 - [**wgbar**](https://github.com/Nikohtr/wgbar) — macOS menu bar app for `wg-quick` WireGuard
   tunnels. Connect-on-demand via an "armed" interface so the first connection never fails,
   automatic DNS repair, least-privilege root helper. Rust, built on the objc2 Cocoa bindings.
